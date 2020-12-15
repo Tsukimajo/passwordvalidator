@@ -1,6 +1,6 @@
 import re
 
-password = input()
+password = input('Enter your password: ')
 searchOne = re.search(r'\d{2}|\d', password)
 searchTwo = re.search(r'[!@#$%&]{2}|[!@#$%&]', password)
 
