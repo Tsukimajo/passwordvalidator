@@ -1,0 +1,1 @@
+A script that takes a string as input and uses the RegEx module to check if it contains the necessary amount of characters and tells you if it’s strong enough or too weak. 
